@@ -16,9 +16,9 @@
 
 🤖 Passionate about **Machine Learning, Artificial Intelligence and Data Science**
 
-💻 Currently strengthening my skills in **DSA, Machine Learning and Python**
+💻 Currently strengthening my skills in **DSA, Machine Learning, Python and Backend Development**
 
-⚡ Interested in building **AI-powered and data-driven applications**
+⚡ Interested in building **AI-powered, data-driven and backend applications**
 
 ---
 
@@ -27,29 +27,60 @@
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
 
 <p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
-### 🌐 Development
+### 🧠 AI & Generative AI
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HyperFrames-6C5CE7?style=for-the-badge" />
 </p>
 
-### 🗄️ Databases
+### 🌐 Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-333333?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Management-336791?style=for-the-badge" />
+</p>
+
+### 🐳 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
@@ -60,7 +91,9 @@
 
 AI-powered chatbot designed to help users with legal queries.
 
-**Tech:** Python • FastAPI • React • AI
+**Tech:** Python • FastAPI • AI
+
+---
 
 ### 🧠 Disaster Tweet Classifier
 
@@ -68,15 +101,21 @@ Machine Learning project that predicts whether a tweet is related to a real disa
 
 **Tech:** Python • Pandas • Scikit-learn • NLP
 
+---
+
 ### 📊 Supermarket Sales Analysis
 
 Data analysis and visualization project exploring sales trends and business insights.
 
 **Tech:** Python • Pandas • Matplotlib • Seaborn • Power BI
 
+---
+
 ### 🤖 AutoMOM
 
 AI-focused project exploring automation and intelligent assistance.
+
+**Tech:** Python • AI • Automation
 
 ---
 
@@ -86,60 +125,62 @@ AI-focused project exploring automation and intelligent assistance.
 
 - Created nearly **600 aptitude videos**
 - Worked with **Claude Code, ElevenLabs, HyperFrames, FFmpeg and Codex**
-- Explored Generative AI and AI-assisted content creation
+- Explored **Generative AI and AI-assisted content creation**
 - Worked on automating parts of the video creation workflow
+- Used AI tools to streamline large-scale educational content production
 
 ---
 
 ## 🎯 What I'm Currently Exploring
 
 <p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-Practicing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Practicing-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Exploring-red?style=for-the-badge" />
 </p>
 
----
+Currently focusing on:
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TushikaTibrewal&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TushikaTibrewal&theme=tokyonight&hide_border=true" />
-</p>
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Artificial Intelligence
+- ⚡ Generative AI
+- 💻 Data Structures & Algorithms
+- 🌐 Backend Development
+- 🗄️ SQL & Database Management
+- 🐳 Docker & Deployment
 
 ---
 
-## 🌱 Beyond Coding
+## 📚 Currently Learning
 
-I enjoy exploring **AI tools, design, music, cafes and new ideas**.
-
-I believe the best projects happen when **technology meets creativity and curiosity.**
-
----
+Machine Learning       ███████████████░░░░░  Learning
+Data Science           ███████████████░░░░░  Learning
+DSA                    ████████████░░░░░░░░  Practicing
+Generative AI           ██████████████░░░░░░  Exploring
+Backend Development     ███████████░░░░░░░░░  Exploring
+SQL & Databases         █████████████░░░░░░░  Learning
 
 ## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tushika-tibrewal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="(https://takeuforward.org/profile/_itsme_tushika)">
+  <img src="https://img.shields.io/badge/DSA-Practice-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/TushikaTibrewal">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-✨ Always learning. Always building. Always exploring. ✨
+  ✨ Always learning. Always building. Always exploring. ✨
 </p>
